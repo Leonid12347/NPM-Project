@@ -1,12 +1,17 @@
-@import './variables';
 @import './reset';
+@import './variables';
 @import './mixins';
+
 @import './default';
 @import './btn';
 @import './swiper';
 @import './form';
+
 @import './navbar';
-@import './footer';
+@import './products';
+
 @import './header';
 @import './sections';
-@import './products';
+@import './footer';
+
+
