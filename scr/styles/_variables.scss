@@ -1,53 +1,74 @@
-$primary-color: #4d2268;
-$secondery-color: #272727;
-$color-white: #ffffff;
-$color-black: #000000;
-$color-gray: gray;
-$color-red: red;
-$color-green: rgb(111, 215, 111);
-$color-violet: violet;
-$color-blue: rgb(104, 104, 139);
-$color-violet--darken: rgb(50, 2, 50);
+$primary_color: #4d2268;
+$secondary_color:#272727;
+$color-white:#ffffff;
+$color-black:#000000;
+$color-gray:#6d6d6d;
+$color-red:#dd3030;
+$color-green:#20da7d;
+$color-violet:#ce3192;
+$color-blue:#e7e3ffcb;
+$color-violet--darken:#2a0b3b;
 
+
+
+
+
+$border: #000000;
+
+$links: #ffffff;
+
+$footer_bg: #867e7e;
+
+$header_bg: #359622;
+
+
+// Fonts sizes
 $font-8:8px;
-$font-10: 10px;
-$font-12: 12px;
-$font-14: 14px;
-$font-16: 16px;
-$font-18: 18px;
-$font-20: 20px;
-$font-24: 24px;
-$font-28: 28px;
-$font-32: 32px;
-$font-36: 36px;
-$font-48: 48px;
-$font-80: 80px;
+$font-10:10px;
+$font-12:12px;
+$font-14:14px;
+$font-16:16px;
+$font-18:18px;
+$font-20:20px;
+$font-24:24px;
+$font-28:28px;
+$font-32:32px;
+$font-36:36px;
+$font-48:48px;
+$font-80:80px;
 
-$font-w-100: 100;
-$font-w-300: 300;
-$font-w-400: 400;
-$font-w-500: 500;
-$font-w-700: 700;
-$font-w-900: 900;
+//FONT-WEIGHT
+$font-w-100:100;
+$font-w-300:300;
+$font-w-400:400;
+$font-w-500:500;
+$font-w-700:700;
+$font-w-900:900;
 
-$font-family: 'poppins', sans-serif;
+//FONT FAMILY
+$font-family:'Poppins', sans-serif;
 
-$p-0: 0;
-$p-0-5: .5rem;
-$p-1: 1rem;
-$p-1-5: 1.5rem;
-$p-2: 2rem;
-$p-3: 3rem;
-$p-4: 4rem;
-$p-5: 5rem;
-$p-6: 6rem;
+//PADDING
+$p-0:0;
+$p-0-5:.5rem;
+$p-1:1rem;
+$p-1-5:1.5rem;
+$p-2:2rem;
+$p-3:3rem;
+$p-4:4rem;
+$p-5:5rem;
+$p-6:6rem;
 
-$m-0: 0;
-$m-0-5: .5rem;
-$m-1: 1rem;
-$m-1-5: 1.5rem;
-$m-2: 2rem;
-$m-3: 3rem;
-$m-4: 4rem;
-$m-5: 5rem;
-$m-6: 6rem;
+//MARGIN
+$m-0:0;
+$m-0-5:.5rem;
+$m-1:1rem;
+$m1-5:1.5rem;
+$m-2:2rem;
+$m-3:3rem;
+$m-4:4rem;
+$m-5:5rem;
+$m-6:6rem;
+
+
+$fs-36: 36px;
