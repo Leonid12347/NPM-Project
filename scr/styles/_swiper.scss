@@ -1,37 +1,12 @@
-.slider_title {
-  color: $color-violet;
-  text-decoration: line-through;
-  font-size: $font-24;
-  font-weight: $font-w-300;
-  padding: $p-1;
-  letter-spacing: $font-10;
-}
-
 .swiper {
-  width: 65%;
+  width: 100%;
   height: auto;
-  margin: $m-1;
-  
-}
 
-// img {
-//   width: 50%;
-//   border-radius: 50%;
-// }
+  &-scrollbar {
+    bottom: 0;
 
-.products_slide {
- @include flex;
-}
-
-.product_slide {
-  position: relative;
-  width: calc(100% / 4);
-  height: 100%;
-  margin: $m-1;
-  padding:$p-1;
-
-  border-radius: $font-10;
-
-  color: $color-violet;
-  background-color:$color-white;
+    &-drag {
+      background-color: $color-violet;
+    }
+  }
 }
